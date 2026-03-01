@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Desert Diamond",
+  "base_artist": "VOLTACTION",
+  "createdAt": "2026-03-01T06:49:15.407786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "Alcatrazz",
+      "has_synced": true,
+      "path": "select/01_Desert_Diamond_Alcatrazz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "Alcatrazz",
+      "has_synced": false,
+      "path": "select/02_Desert_Diamond_Alcatrazz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/03_Desert_Diamond_VOLTACTION.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Desert Diamond",
+      "artist": "DanaMaria",
+      "has_synced": true,
+      "path": "select/04_Desert_Diamond_DanaMaria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Barefoot Desert",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/05_Barefoot_Desert_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Barefoot Desert",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Barefoot_Desert_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desert Island Disk",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Desert_Island_Disk_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Desert Island",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/08_Desert_Island_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Desert Search For Techno Allah",
+      "artist": "Mr. Bungle",
+      "has_synced": false,
+      "path": "select/09_Desert_Search_For_Techno_Allah_Mr._Bungle.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Desert Fly",
+      "artist": "Nina Nastasia",
+      "has_synced": false,
+      "path": "select/10_Desert_Fly_Nina_Nastasia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Desert Storm",
+      "artist": "Orbital",
+      "has_synced": false,
+      "path": "select/11_Desert_Storm_Orbital.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crime in the Desert",
+      "artist": "Brian Eno feat. John Cale",
+      "has_synced": false,
+      "path": "select/12_Crime_in_the_Desert_Brian_Eno_feat._John_Cale.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crime in the Desert",
+      "artist": "Brian Eno & John Cale",
+      "has_synced": false,
+      "path": "select/13_Crime_in_the_Desert_Brian_Eno_&_John_Cale.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Infinite Desert",
+      "artist": "Delorean",
+      "has_synced": false,
+      "path": "select/14_Infinite_Desert_Delorean.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Desert Plains",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/15_Desert_Plains_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Desert Plains - Live",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/16_Desert_Plains_-_Live_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Desert Inn",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/17_Desert_Inn_Yello.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Desert Song",
+      "artist": "Kissing the Pink",
+      "has_synced": false,
+      "path": "select/18_Desert_Song_Kissing_the_Pink.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lakes In the Desert",
+      "artist": "Double",
+      "has_synced": false,
+      "path": "select/19_Lakes_In_the_Desert_Double.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Desert Prayer",
+      "artist": "Haddaway",
+      "has_synced": false,
+      "path": "select/20_Desert_Prayer_Haddaway.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Desert Diamond",
+      "artist": "VOLTACTION",
+      "has_synced": false,
+      "path": "select/pl_01_Desert_Diamond_VOLTACTION.txt"
+    }
+  ]
+}
